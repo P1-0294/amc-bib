@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd"><identifier identifierType="DOI">10.26493/1855-3974.5_2</identifier><creators><creator><creatorName>ARS MATHEMATICA CONTEMPORANEA</creatorName></creator></creators><titles><title>ARS MATHEMATICA CONTEMPORANEA, Vol 5, No 2 (2012)</title></titles><publisher>ARS MATHEMATICA CONTEMPORANEA</publisher><publicationYear>2012</publicationYear><dates><date dateType="Issued">2012-01-19</date></dates><language>en</language><resourceType resourceTypeGeneral="Text">Journal Issue</resourceType><alternateIdentifiers><alternateIdentifier alternateIdentifierType="publisherId">1-16</alternateIdentifier><alternateIdentifier alternateIdentifierType="EISSN">1855-3974</alternateIdentifier><alternateIdentifier alternateIdentifierType="ISSN">1855-3966</alternateIdentifier></alternateIdentifiers><relatedIdentifiers><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.172.8a7</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.182.139</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.183.8a2</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.189.e64</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.201.6e1</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.202.37f</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.203.7ba</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.204.f8b</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.206.a03</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.207.8e0</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.212.563</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.213.fcd</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.216.59d</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.228.ee8</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.231.d5b</relatedIdentifier></relatedIdentifiers><rightsList><rights rightsURI=""></rights></rightsList><descriptions><description descriptionType="TableOfContents">Minimum cycle bases of lexicographic products...223-234
+On graphs with the smallest eigenvalue at least -1 - √2, Part II...243-258
+Developments and open problems on chiral polytopes...333-354
+The tomotope...355-370
+On the core of a unicyclic graph...325-331
+Factors of disconnected graphs and polynomials with nonnegative integer coefficients...307-323
+Symmetric graphicahedra...383-405
+Two atlases of abstract chiral polytopes for small groups...371-382
+Duality on hypermaps with symmetric or alternating monodromy group...259-267
+Cayley graphs of order 16p are hamiltonian...189-215
+Posets of geometric graphs...269-288
+Imprimitivity of locally finite, 1-ended, planar graphs...217-221
+The combinatorial (19_4) configurations...235-241
+Facial parity edge coloring of outerplane graphs...289-293
+Side lengths of pseudoconvex fullerene patches...295-306
+Configurations from a Graphical Viewpoint
+Computers in Scientific Discovery 6 (CSD6)
+Open access strategy: Either–or
+SIGMAP 2010 photos</description></descriptions></resource>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1" xmlns:ai="http://www.crossref.org/AccessIndicators.xsd" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd"><identifier identifierType="DOI">10.26493/1855-3974.15_1</identifier><creators><creator><creatorName>ARS MATHEMATICA CONTEMPORANEA</creatorName></creator></creators><titles><title>ARS MATHEMATICA CONTEMPORANEA, Vol 15, No 1 (2018)</title></titles><publisher>ARS MATHEMATICA CONTEMPORANEA</publisher><publicationYear>2017</publicationYear><dates><date dateType="Issued">2017-11-02</date></dates><language>en</language><resourceType resourceTypeGeneral="Text">Journal Issue</resourceType><alternateIdentifiers><alternateIdentifier alternateIdentifierType="publisherId">1-35</alternateIdentifier><alternateIdentifier alternateIdentifierType="EISSN">1855-3974</alternateIdentifier><alternateIdentifier alternateIdentifierType="ISSN">1855-3966</alternateIdentifier></alternateIdentifiers><relatedIdentifiers><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1007.3ec</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1059.4be</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1115.90f</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1161.3b9</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1218.5ed</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1279.bce</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1296.5c7</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1319.375</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1327.6ee</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1341.5a3</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1376.7c2</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1382.dee</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1414.58b</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1419.3e9</relatedIdentifier><relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.26493/1855-3974.1439.fdf</relatedIdentifier></relatedIdentifiers><rightsList><rights rightsURI=""></rights></rightsList><descriptions><description descriptionType="TableOfContents">Linking rings structures and semisymmetric graphs: Combinatorial constructions...1-17
+Coordinatizing n3 configurations...127-145
+Enumeration of hypermaps of a given genus...225-266
+On prime-valent symmetric graphs of square-free order...53-65
+Maximum cuts of graphs with forbidden cycles...147-160
+Saturation number of lattice animals...191-204
+Circular chromatic number of induced subgraphs of Kneser graphs...161-172
+Rank 4 toroidal hypertopes...67-79
+The arc-types of Cayley graphs...97-112
+Groups of symmetric crosscap number less than or equal to 17...173-190
+On Wiener inverse interval problem of trees...19-37
+On 2-distance-balanced graphs...81-95
+Coloring properties of categorical product of general Kneser hypergraphs...113-126
+Enumerating regular graph coverings whose covering transformation groups are  ℤ2-extensions of a cyclic group...205-223
+Groups in which every non-nilpotent subgroup is self-normalizing...39-51
+A New Strategy to Tackle the Backlog
+Groups and Graphs, Designs and Dynamics
+Vladimir Batagelj is 70
+Branko Grünbaum, Geometer</description></descriptions></resource>
