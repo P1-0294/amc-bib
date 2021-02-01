@@ -40,3 +40,8 @@ vignettes/*.pdf
 
 # Mac OS
 .DS_Store
+
+# Data
+DB
+datacite_exports
+anomalies

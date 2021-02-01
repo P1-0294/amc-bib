@@ -78,3 +78,17 @@ induced.links <- function(links, nodes, nodeId="id") {
   links %>%
     filter(from %in% ids & to %in% ids)
 }
+
+addURLs <- function(data) {
+  data %>% mutate(
+    submissionURL = sprintf("https://amc-journal.eu/index.php/amc/editor/submission/%d", article_id),
+    publicationURL = sprintf("https://amc-journal.eu/index.php/amc/article/view/%d", article_id),
+    metadataURL = sprintf("https://amc-journal.eu/index.php/amc/editor/viewMetadata/%d", article_id)
+  ) %>%  (function(dt) {
+    class(dt$submissionURL) <- "hyperlink"
+    class(dt$publicationURL) <- "hyperlink"
+    class(dt$metadataURL) <- "hyperlink"
+    dt
+  })
+}
+

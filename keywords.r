@@ -5,7 +5,7 @@ VISUALIZATIONS_FOLDER <- "visualizations/keywords"
 
 # Keyword <- read_csv("data/keyword.csv")
 Keyword2 <- read_csv(
-  file.path(DOAJ_FOLDER, "keyword-2.csv"), 
+  file.path(DOAJ_FOLDER, "keyword-clean.csv"), 
   col_types = cols(
     kid = col_integer(),
     kid2 = col_integer()
@@ -65,7 +65,7 @@ keyword.keyword.links <- keyword.paper.weight %>%
   filter(from < to)   # ohranimo samo povezave v eno smer (tudi brez zank). 
 # zanke bi določale celoten prispevek avtorjev kot zgoraj
 
-# Seznam avtorjev z njihovimi prispevki
+# Seznam keywordov z njihovimi prispevki
 keyword.all <- keyword.paper.weight %>%
   group_by(kid2, normalized) %>%
   summarise(
@@ -147,7 +147,8 @@ visNetwork(
   ),
   width="100%",
   height="800px",
-  main="Keyword co-existence (fractional, more than 1 paper)"
+  # main="Keyword co-existence (fractional, more than 1 paper)"
+  main=sprintf("Keyword co-existence (N: %d, E: %d, fractional, more than 1 paper)", nodes %>% nrow, links %>% nrow)
 ) %>% 
   visIgraphLayout(
     physics=TRUE,
@@ -217,12 +218,12 @@ visPathfinder <- function(nodes, links, r=1, q="n - 1", id="kid2", description="
   if(q == "n - 1") {
     q = nodes %>% nrow() - 1
   }
-  links <- pathfinder_sparse(nodes, links0, r, q, id=id) %>% 
+  links <- pathfinder_sparse(nodes, links, r, q, id=id) %>% 
     # mutate(       # debug
     #   pathfinder=1
     # ) %>%
     # right_join(links0 %>%    
-    left_join(links0 %>%
+    left_join(links %>%
                 select(from, to, ndeg, n), by=c("from"="from", "to"="to")) %>%
     select(-weight)
   # select(-weight) %>% # debug
